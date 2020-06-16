@@ -12,3 +12,5 @@ to crop your image, in files folder, to export folder.
 
 
 Reference: https://sharp.pixelplumbing.com/api-resize#extract
+<br>
+Many thanks to <a href='https://github.com/lovell'>Lovell</a>
